@@ -1,0 +1,21 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    #是否把自己注册到注册中心
+    registerWithEureka: false
+    #该参数代表是否需要检索服务
+    fetchRegistry: false
+    #该参数指定默认注册中心的注册地址，其他的微服务应用就是通过该属性值来注册服务。
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    #测试的时候用 页面的红字就是提示开启了自我保护机制 90s后自动移除
+    enable-self-preservation: false
+
+spring:
+  application:
+    name: eurka-server

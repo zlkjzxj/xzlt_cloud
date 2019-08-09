@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
+        <module name="service-ribbon" />
+        <module name="talent_assessment" />
+        <module name="xzlt_manager" />
+        <module name="xzlt_project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eurekaclient" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="talent_assessment" target="1.8" />
+      <module name="xzlt_cloud" target="1.8" />
+      <module name="xzlt_manager" target="1.8" />
+      <module name="xzlt_project" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

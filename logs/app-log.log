@@ -1,0 +1,16 @@
+[INFO] 2019-08-09 10:26:45,748 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 10:54:16,512 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 11:51:52,073 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 12:24:04,769 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 12:38:04,756 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 12:42:14,030 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 14:03:00,198 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
+[INFO] 2019-08-09 15:47:41,304 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:667)
+{dataSource-1} inited
